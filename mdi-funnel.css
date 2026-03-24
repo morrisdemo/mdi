@@ -96,11 +96,8 @@ button{cursor:pointer;border:none;background:none}
   font-family: var(--ff-d); font-size: 13px; font-weight: 800; color: #fff;
   box-shadow: 0 0 16px rgba(59,48,204,.35); flex-shrink: 0;
 }
-.nav__wordmark {
-  font-family: var(--ff-d); font-size: 14px; font-weight: 700; color: var(--t1);
-}
+.nav__wordmark { font-family: var(--ff-d); font-size: 14px; font-weight: 700; color: var(--t1); }
 .nav__wordmark span { color: var(--ind-2); }
-
 .topbar__inner {
   width: 100%; max-width: var(--max);
   margin: 0 auto; padding: 0 28px;
